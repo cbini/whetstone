@@ -36,3 +36,13 @@ def test_command_line_interface():
     help_result = runner.invoke(cli.main, ['--help'])
     assert help_result.exit_code == 0
     assert '--help  Show this message and exit.' in help_result.output
+
+def test_client_instantiation():
+    import requests
+
+    # instantiating a Client should return an object with the correct base_url
+    # and a requests Session
+    client = whetstone.Client()
+    
+    assert client.base_url == 'https://app.whetstoneeducation.com'
+    assert isinstance(client.session, requests.sessions.Session)
