@@ -30,7 +30,8 @@ API wrapper for Whetstone Education
 Features
 --------
 
-* TODO
+* Handles authentication via API key
+* Interact with Whetstone API
 
 Credits
 -------
