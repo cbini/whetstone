@@ -1,0 +1,10 @@
+update: all
+search: True
+pin: True
+branch: master
+branch_prefix: pyup-
+close_prs: True
+label_prs: False
+requirements:
+    - Pipfile
+    - Pipfile.lock
