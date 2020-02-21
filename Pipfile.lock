@@ -461,10 +461,10 @@
         },
         "virtualenv": {
             "hashes": [
-                "sha256:116655188441670978117d0ebb6451eb6a7526f9ae0796cc0dee6bd7356909b0",
-                "sha256:b57776b44f91511866594e477dd10e76a6eb44439cdd7f06dcd30ba4c5bd854f"
+                "sha256:531b142e300d405bb9faedad4adbeb82b4098b918e35209af2adef3129274aae",
+                "sha256:5dd42a9f56307542bddc446cfd10ef6576f11910366a07609fe8d0d88fa8fb7e"
             ],
-            "version": "==16.7.8"
+            "version": "==20.0.5"
         },
         "watchdog": {
             "hashes": [
