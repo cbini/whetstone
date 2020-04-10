@@ -409,11 +409,10 @@
         },
         "sphinx": {
             "hashes": [
-                "sha256:9f3e17c64b34afc653d7c5ec95766e03043cc6d80b0de224f59b6b6e19d37c3c",
-                "sha256:c7658aab75c920288a8cf6f09f244c6cfdae30d82d803ac1634d9f223a80ca08"
+                "sha256:50972d83b78990fd61d0d3fe8620814cae53db29443e92c13661bc43dff46ec8",
+                "sha256:8411878f4768ec2a8896b844d68070204f9354a831b37937989c2e559d29dffc"
             ],
-            "index": "pypi",
-            "version": "==1.8.5"
+            "version": "==3.0.1"
         },
         "sphinxcontrib-websupport": {
             "hashes": [
